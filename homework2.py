@@ -38,3 +38,7 @@ if __name__ == "__main__":
             max_price = price  # cập nhật lại giá lớn nhất
 
     print(f"Giá cao nhất: {max_price}")
+    
+    # Bài 5
+    print("")
+    print("Bài 5: ")
